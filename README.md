@@ -1,4 +1,4 @@
-### Cálculo de Média e Status do Aluno
+# Cálculo de Média e Status do Aluno
 
 Este código JavaScript consiste em duas partes: um arquivo "auxiliarex1-1.js" e um arquivo principal. O objetivo é calcular a média de um aluno e determinar o seu status com base na nota.
 
